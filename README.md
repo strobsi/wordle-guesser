@@ -51,4 +51,4 @@ Running the program in improved guessing mode is different from the methods abov
 
 ## More
 
-I am sure, there are strategies to further improve the guessing score. See 3Blue1Brown for example, which analyzed the issue on a whole new level. (https://www.youtube.com/watch?v=v68zYyaEmEA)[https://www.youtube.com/watch?v=v68zYyaEmEA]. However, before checking the internet, I wanted to find out a solution by myself and not just simply copying others.
+I am sure, there are strategies to further improve the guessing score. See 3Blue1Brown for example, which analyzed the issue on a whole new level. [https://www.youtube.com/watch?v=v68zYyaEmEA](https://www.youtube.com/watch?v=v68zYyaEmEA). However, before checking the internet, I wanted to find out a solution by myself and not just simply copying others.
